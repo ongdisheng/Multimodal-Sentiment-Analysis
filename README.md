@@ -32,18 +32,22 @@
 ```
 
 ## Usage
-1. Change directory
+1. Download data and pre-trained BERT folder from [here](https://drive.google.com/drive/folders/13LcOQV7wlpDtJiLhXP4XODEYikXX02vn?usp=sharing)
+
+2. Ensure directory structure follows the [specified](#directory-structure) format
+
+3. Navigate to the directory containing your dataset of interest
 ```
 cd CMU-MOSEI
 ```
 
-2. Install all required libraries
+4. Install all required libraries
 
 ```
 pip install -r requirements.txt
 ```
 
-3. Run experiments
+5. Run experiments
 ```
 # original (audio + text)
 python run_classifier.py
