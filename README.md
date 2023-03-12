@@ -1,7 +1,7 @@
 # Multimodal-Sentiment-Analysis
 
 ## Introduction
-
+Our project focuses on multimodal sentiment analysis, specifically on improving the accuracy of an existing model developed by [Kaicheng Yang](https://github.com/thuiar/Cross-Modal-BERT) by integrating an additional visual modality. This project is also extended to investigate the multilingual aspect of sentiment analysis by training the model on a Chinese dataset, with the aim of providing a more comprehensive understanding of sentiment across different languages. 
 
 ## Model Architecture 
 
