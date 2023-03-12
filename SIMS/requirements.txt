@@ -1,0 +1,9 @@
+torch
+torchvision
+tqdm==4.44.1
+numpy
+pytorch-pretrained-bert==0.6.1
+scikit-learn
+requests==2.18.4
+urllib3==1.22
+pathlib==1.0.1
