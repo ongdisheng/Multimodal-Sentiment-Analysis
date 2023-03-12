@@ -36,7 +36,7 @@
 
 2. Ensure directory structure follows the [specified](#directory-structure) format
 
-3. Navigate to the directory containing your dataset of interest
+3. Navigate to the directory containing your dataset of interest (CMU-MOSEI / CMU-MOSI / SIMS)
 ```
 cd CMU-MOSEI
 ```
