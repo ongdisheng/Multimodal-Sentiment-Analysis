@@ -7,8 +7,8 @@ This project focuses on multimodal sentiment analysis, specifically on improving
 ### Original
 ![Original Model Architecture](https://github.com/thuiar/Cross-Modal-BERT/blob/master/img/architecture%20.png?raw=true)
 
-### Ours
-![Our Model Architecture](https://github.com/ongdisheng/Multimodal-Sentiment-Analysis/blob/main/img/CM_BERT_With_Visual.jpg)
+### Proposed
+![Proposed Model Architecture](https://github.com/ongdisheng/Multimodal-Sentiment-Analysis/blob/main/img/CM_BERT_With_Visual.jpg)
 
 ## Directory Structure 
 ```
